@@ -78,7 +78,6 @@ API authentication is implemented using Laravel Sanctum.
 
 ## Main Modules
 
-```text
 Hayki
 ├── Authentication
 ├── Product Management
@@ -91,7 +90,7 @@ Hayki
 ├── Transactions
 ├── Promotions
 └── REST API
-```text
+
 ### Database
 
 The application uses MySQL as its relational database.
@@ -139,4 +138,3 @@ Laela Safitri
 
 Software Engineering Student
 Politeknik Negeri Indramayu
-```markdown
