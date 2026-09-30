@@ -1,4 +1,3 @@
-```markdown
 # Hayki
 
 Hayki is a clothing store management and e-commerce system developed to support product management, inventory management, customer orders, transactions, payments, and promotions.
