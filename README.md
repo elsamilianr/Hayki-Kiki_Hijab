@@ -76,7 +76,7 @@ Hayki provides REST API endpoints for management features such as:
 API authentication is implemented using Laravel Sanctum.
 
 ## Main Modules
-
+```text
 Hayki
 ├── Authentication
 ├── Product Management
@@ -89,7 +89,7 @@ Hayki
 ├── Transactions
 ├── Promotions
 └── REST API
-
+```
 ### Database
 
 The application uses MySQL as its relational database.
@@ -131,9 +131,10 @@ Academic Project
 
 ### Author
 
-Daffa Rafian Febriantoro
-Elsa Milian Rizqi
-Laela Safitri
+- Daffa Rafian Febriantoro
+- Elsa Milian Rizqi
+- Laela Safitri
 
 Software Engineering Student
+
 Politeknik Negeri Indramayu
