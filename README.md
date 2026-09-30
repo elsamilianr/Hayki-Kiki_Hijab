@@ -91,7 +91,7 @@ Hayki
 ├── Transactions
 ├── Promotions
 └── REST API
-
+```text
 ### Database
 
 The application uses MySQL as its relational database.
@@ -139,3 +139,4 @@ Laela Safitri
 
 Software Engineering Student
 Politeknik Negeri Indramayu
+```markdown
